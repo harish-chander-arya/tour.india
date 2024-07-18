@@ -1,0 +1,659 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.material-symbols-outlined {
+    position: relative;
+    top: 10px;
+}
+
+.banner-content h1 {
+    color: #38404F;
+    font-size: 75px;
+    line-height: 85px;
+    font-weight: 300;
+}
+
+.banner-content strong {
+    color: #FF6612;
+    font-weight: 800;
+}
+
+.tiger-banner img {
+    width: 100%;
+}
+
+.banner-content p {
+    font-size: 18px;
+    line-height: 30px;
+    color: #38404F;
+    padding-top: 13px;
+}
+
+/* .banner-content {
+    margin-top: 65px;
+    margin-left: 50px;
+} */
+
+.banner-content-package {
+    padding-top: 30px;
+    /* width: 100%; */
+    /* background-color: #FF6612; */
+    /* height: 300px; */
+    /* display: flex; */
+}
+
+.section-1-packages {
+    /* width: 25%; */
+    background-color: white;
+    height: 250px;
+    /* margin-right: 3%; */
+    box-shadow: 5px 5px 5px 5px rgba(55, 52, 52, 0.408);
+    border-radius: 10px;
+    /* display: flex;flex-wrap: wrap;    */
+    /* justify-content: center; */
+}
+
+.wildlife-section1 {
+    width: 100%;
+    height: 80px;
+    /* background-color: #FF6612; */
+    padding-left: 15px;
+    display: flex;
+}
+
+.wildlife-Packages-content {
+    width: 80%;
+}
+
+.wildlife-Packages-content h5 {
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 700;
+    color: #38404F;
+    margin-top: 10px;
+    width: 100%;
+
+}
+
+.wildlife-Packages-content p {
+    font-size: 15px;
+    line-height: 23px;
+    color: #918F9B;
+    width: 100%;
+    /* padding-top: 0; */
+    margin-top: -20px;
+}
+
+.wildlife-section1 .package-logo {
+    width: 20%;
+    margin-right: 20px;
+}
+
+.wildlife-section1 .package-logo img {
+    width: 50px;
+}
+
+.section-1-packages .package-img {
+    width: 90%;
+    margin: 0% 5%;
+    overflow: hidden;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.section-1-packages .package-img img {
+    width: 250px;
+}
+
+/* .main-heading{padding-left: } */
+.main-heading h2 {
+    font-size: 52px;
+    color: #38404F;
+    font-weight: 700;
+    /* margin-left: 100px; */
+    /* margin-top: 50px; */
+}
+
+.nsewc {
+    margin-top: 30px;
+    /* overflow-x: scroll; */
+
+}
+
+.nsewc .spanp {
+    display: flex;
+    width: 100%;
+    max-width: 1320px;
+    padding-bottom: 20px;
+    /* background-color: #918F9B; */
+    border-bottom: #38404f20 solid;
+}
+
+.nsewc span {
+    color: black;
+    font-size: 17px;
+    padding-right: 60px;
+    /* margin-left: 70px; */
+}
+
+/* .north-india {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;/
+} */
+
+.north-box {
+    width: 30%;
+    /* height: 225px; */
+    /* background-color: #918F9B; */
+    /* padding: 10px; */
+    /* margin-right: 20px;
+    margin-bottom: 23px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    position: relative;
+    padding: 5px;
+}
+
+.north-box img {
+    border-radius: 10px;
+    height: 100%;
+}
+
+.north-uk img {
+    width: 100%;
+}
+
+.north-uk {
+    width: 100%;
+    /* height: 473px; */
+    overflow: hidden;
+    border-radius: 10px;
+    /* margin-left: 30px; */
+}
+
+.owl-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.owl-nav span {
+    background-color: orange;
+    padding: 10px 20px;
+    margin: 0px 10px;
+    border-radius: 50%;
+    color: white;
+    /* font-size: larger; */
+}
+
+.Top-Trending-Destinations .box img {
+    border-radius: 10px;
+}
+
+.Top-Trending-Destinations .content {
+    padding-top: 28px;
+}
+
+.Top-Trending-Destinations .content p {
+    color: #38404F;
+    font-size: 17px;
+    line-height: 2px;
+}
+
+.Top-Trending-Destinations .content h4 {
+    line-height: 1px;
+}
+
+.package-by-interest-menu button {
+    background-color: white;
+    border-radius: 60px;
+    padding: 8px 30px;
+    border: 1px solid #D9D9E8;
+    margin-right: 10px;
+}
+
+.package-by-interest-wildlife img {
+    border-radius: 5px;
+}
+
+.package-by-interest-wildlife h5 {
+    font-size: 15px;
+    width: 100%;
+}
+
+.package-by-interest-wildlife p {
+    width: 100%;
+    line-height: 10px;
+}
+
+.package-by-interest-wildlife .content {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL'0,
+        'wght'400,
+        'GRAD'0,
+        'opsz'48;
+    color: orange;
+}
+
+.main-heading h4 {
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+}
+
+.Holidays-by-Interest .box img {
+    border-radius: 8px;
+    width: 100%;
+}
+
+.Holidays-by-Interest .box .img-content {
+    position: absolute;
+    bottom: 23px;
+    left: 32px;
+    color: white;
+}
+
+.Holidays-by-Interest .box .img-content h3 {
+    line-height: 30px;
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: 0 0 10px #000;
+}
+
+.north-uk .img-content {
+    position: absolute;
+    bottom: 23px;
+    left: 32px;
+    color: white;
+}
+
+.north-box .img-content {
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+    color: white;
+    line-height: 5px;
+    text-shadow: 0 0 10px black;
+}
+
+/* 
+.tiger-banner .box {
+    height: 650px;
+} */
+
+.tiger-banner .box .img-content {
+    position: absolute;
+    bottom: 30px;
+    /* left: 50px; */
+    color: white;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.tiger-banner .img-content h1 {
+    color: white;
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 800;
+    width: 100%;
+}
+
+.tiger-banner .img-content p {
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    width: 100%;
+}
+
+.why-choose-us .box1 {
+    background-color: #EFF4EF;
+    border-radius: 15px;
+    height: 100%;
+    /* margin-right: 1%; */
+    /* width: 24%; */
+}
+
+.why-choose-us .box2 {
+    background-color: #EEF5F8;
+    border-radius: 15px;
+    height: 100%;
+    /* margin-right: 1%; */
+    /* width: 24%; */
+
+
+
+}
+
+.why-choose-us .box3 {
+    background-color: #FBF2F1;
+    border-radius: 15px;
+    height: 100%;
+    /* margin-right: 1%; */
+    /* width: 24%; */
+
+
+}
+
+.why-choose-us .box4 {
+    background-color: #FDFAEE;
+    border-radius: 15px;
+    height: 100%;
+    /* margin-right: 1%; */
+    /* width: 24%; */
+
+
+}
+
+.why-choose-us img {
+    margin: 40px;
+}
+
+.about-incredible-india p {
+    /* padding-right: 120px; */
+    margin-top: 18px;
+    font-size: 18px;
+}
+
+.about-incredible-india img {
+    border-radius: 10px;
+}
+
+.travel-information h3 {
+    font-weight: 700;
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+.accordion-body p {
+    font-size: 18px;
+    font-weight: 100;
+}
+
+#hill-station {
+    display: none;
+
+}
+
+#frebtn {
+    border-radius: 20px;
+    color: white;
+}
+
+#freh h4 {
+    line-height: 40px;
+}
+
+.container {
+    max-width: 1350px !important;
+}
+
+.menures .menuicon {
+    display: none;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #101010;
+    background-color: #ffffff;
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .125);
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url(rotate.icon.svg);
+    transform: rotate(-180deg);
+}
+
+@media (max-width: 820px) {
+    .nav-item .nav-link {
+        color: white !important;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .tiger-banner .img-content h1 {
+        font-size: 30px;
+        line-height: 26px;
+    }
+
+    .banner-content h1 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .package-by-interest-wildlife {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .Holidays-by-Interest .box .img-content h3 {
+        line-height: 20px;
+        font-size: 17px;
+        margin-left: -20px;
+        margin-bottom: -20px;
+    }
+
+    .main-heading h2 {
+        font-size: 27px;
+    }
+
+    .nsewc {
+
+        overflow-x: scroll;
+
+
+    }
+
+    .nsewc span {
+        min-width: 155px;
+    }
+
+    .package-by-interest-menu {
+        overflow-x: scroll;
+    }
+
+    .package-by-interest-menu-scroll {
+        display: flex;
+    }
+
+    .package-by-interest-menu button {
+        min-width: 140px;
+    }
+
+    .Top-Trending-Destinations .content p {
+        /* padding-top:10px; */
+        font-size: 15px;
+    }
+
+    .Top-Trending-Destinations .content h5 {
+        font-size: 15px;
+    }
+
+    .img-content h5 {
+        font-size: 15px;
+    }
+
+    .img-content p {
+        font-size: 14px;
+    }
+
+    .about-incredible-india p {
+        font-size: 16px;
+    }
+
+    .travel-information h3 {
+        font-size: 20px;
+    }
+
+    .menu .navbar {
+        display: none;
+        background-color: rgba(44, 53, 73, 0.989);
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        left: 0px;
+        z-index: 1111;
+        transition: 2s;
+
+    }
+
+
+    .menures .menuicon {
+        display: block;
+        top: 30px;
+        font-size: 40px;
+    }
+
+    .menures {
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    .package-by-interest-wildlife p {
+        font-size: 12px;
+    }
+
+    .accordion-body p {
+        font-size: 15px;
+    }
+
+    .accordion-item h4 {
+        font-size: 18px;
+    }
+    .footer p{display: none;}
+    .footer-part-one {
+        padding-top: 0px !important;
+    }
+    .footer-part-one .footer-cta a{
+        margin-top: -40px !important;
+        margin-left: 50px !important;
+
+    }
+    .footer {
+        background-color: white;
+        border-radius: 15px;
+        border: none !important;
+    
+        padding: 0px 15px !important;
+    }
+    
+}
+#closemenubtn{
+    display: none;
+    font-size: 40px;
+    top: 20px;
+}
+.footer {
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid rgb(103, 102, 102);
+
+    padding: 20px 0;
+}
+
+/* .footer-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+} */
+
+.footer-brand {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: flex-start;
+    /* margin-bottom: 20px; */
+}
+
+.footer-brand img {
+    height: 60px;
+}
+
+.footer-brand p {
+    
+    /* margin-top: 10px; */
+    font-size: 14px;
+    /* color: #555; */
+}
+
+.footer-links-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 800px;
+}
+
+    
+
+.footer-column h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.footer-column a {
+    display: block;
+    color: #555;
+    text-decoration: none;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.footer-column a:hover {
+    text-decoration: none;
+    color: black;
+}
+.footer-part-one p{
+    font-weight:400;
+    font-size: 17px;
+}
+.footer-part-one{border-bottom:0.5px solid #6c6b6b;}
+
+/* .footer-cta {
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: flex-end; */
+    /* margin-bottom: 20px; */
+/* } */ 
+
+/* .footer-cta p { */
+    /* margin: 0px; */
+    /* font-size: 14px; */
+    /* color: #7d7d7d; */
+/* } */
+
+.footer-btn {
+    display: inline-block;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #ff6600;
+    border-radius: 25px;
+    text-decoration: none;
+    /* margin-top: 10px; */
+}
+
+.footer-btn:hover {
+    text-decoration: none;
+    background-color: #e65c00;
+    color: white;
+}
